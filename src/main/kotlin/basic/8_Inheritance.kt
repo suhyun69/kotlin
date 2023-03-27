@@ -38,6 +38,7 @@ open class Bulldog(final override var age: Int = 0) : Dog() {
     }
 }
 
+/*
 // 추상 클래스 : abstract
 abstract class Developer {
 
@@ -64,3 +65,5 @@ fun main() {
     dog.bark()
 
 }
+
+ */
